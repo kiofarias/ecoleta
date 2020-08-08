@@ -1,0 +1,2 @@
+# ecoleta
+Aplicação NLW1
