@@ -123,4 +123,4 @@ dist
 .tern-port
 
 #database tests
-database.sqlite
+databaseTests.sqlite
